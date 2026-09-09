@@ -39,6 +39,10 @@ activate mic functions then play your audio file.
 In roughly a minute you will have your photo and after completion you will also
 have a button if you want to save your picture.
 
+Also another note on the encoding function, you don't need to resize images to
+SSTV standards nor needing to convert them into .bat files, you can simply drop
+a .png, .jpg or .jpeg and it will do the entire conversions for you.
+
 -----------------------------------------------------------------------------------
 
 
