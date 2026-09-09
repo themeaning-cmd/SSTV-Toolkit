@@ -17,12 +17,13 @@ covered.
 
 --INSTRUCTIONS---------------------------------------------------------------------
 
-1. Click "Start SSTV Toolkit" to open the program
-2. In "Encode" pick the image that you like
-3. Chouse an SSTV mode of your liking 
-4. Pick any of the photo proportion settings ('stretch to fill' recommended)
-5. In the "Decode" section browse for your converted (.wav) file and insert it
-6. Press "Decode"
+1. Extract the contents of the .zip file into a folder
+2. Click "Start SSTV Toolkit" to open the program
+3. In "Encode" pick the image that you like
+4. Chouse an SSTV mode of your liking 
+5. Pick any of the photo proportion settings ('stretch to fill' recommended)
+6. In the "Decode" section browse for your converted (.wav) file and insert it
+7. Press "Decode"
 
 -ADDITIONAL-INFORMATION------------------------------------------------------------
 
